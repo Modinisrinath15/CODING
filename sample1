@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> LEARNING GIT </title>
+$ git --version
+$ git int .
+$ touch filename
+$ vim filename
+$ press i
+$ ESC
+$ shift+: = wq
+$ cat+filename
+$ git add .
+$ git status
+$ git commit -m filename
+$ git log
+<head/>
+</html>
